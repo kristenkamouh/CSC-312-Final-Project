@@ -1,2 +1,3 @@
-# CSC-312-Final-Project
-Computer Architecture final project
+# shoot.d $f16
+
+assembly game about shooting planes
