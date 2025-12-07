@@ -1,3 +1,3 @@
-# shoot.d $f16
+# JewManji
 
-assembly game about shooting planes
+assembly game about a goblin picking coins in a jumaji-like map
