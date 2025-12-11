@@ -35,3 +35,9 @@ W A S D → Up, Left, Down, Right.
 
 When the timer reaches 0, the game transitions to the final screen indicating that time has expired.
 A sound is played, and the system halts or waits for restart depending on your implementation.
+
+
+
+# Files
+All the assets are within this repository. Png, HEX with # and HEX with 0x00 are all placed in their respective folders.
+Replacing # with 0x00 was done via a python script found in `transistor/.py` where path was entered to get and save the files
