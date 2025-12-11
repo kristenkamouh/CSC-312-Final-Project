@@ -1,14 +1,14 @@
 #################################################################################################################
-#			                                                                                    											#
-#	                                  Kristen Kamouh - 20241747										                                #
-#	                                  Jack Kalayjiyan - 20231711										                              #
-#	  JewManji - A very intersting (not racial) game where a goblin is picking coins.				                      #
-#														                                                                                    #
-#	  Choose your mode, easy (e), hard (h), impossible (i), walk around freely using W A S D, and enjoy          	#
-#	  the smooth experience of coin picking.									                                                    #
-#														                                                                                    #
-#	  Playing on 512x512 map, it feels like you are running a marathon. Act quick before the timer ends.	        #
-#	  And make sure you claim as much coins as your pockets can be filled.					                              #
+#			                                                                                    				#
+#	                                  Kristen Kamouh - 20241747										            #
+#	                                  Jack Kalayjiyan - 20231711										        #
+#	  JewManji - A very intersting (not racial) game where a goblin is picking coins.				            #
+#														                                                        #
+#	  Choose your mode, easy (e), hard (h), impossible (i), walk around freely using W A S D, and enjoy         #
+#	  the smooth experience of coin picking.									                                #
+#														                                                        #
+#	  Playing on 512x512 map, it feels like you are running a marathon. Act quick before the timer ends.	    #
+#	  And make sure you claim as much coins as your pockets can be filled.					                    #
 #                                                                                                               #
 #################################################################################################################
 
