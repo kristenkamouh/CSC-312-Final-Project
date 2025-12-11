@@ -40,4 +40,4 @@ A sound is played, and the system halts or waits for restart depending on your i
 
 # Files
 All the assets are within this repository. Png, HEX with # and HEX with 0x00 are all placed in their respective folders.
-Replacing # with 0x00 was done via a python script found in `transistor/.py` where path was entered to get and save the files
+Replacing # with 0x00 was done via a python script found in `transistor/HexTabi3e.py` where path was entered to get and save the files
